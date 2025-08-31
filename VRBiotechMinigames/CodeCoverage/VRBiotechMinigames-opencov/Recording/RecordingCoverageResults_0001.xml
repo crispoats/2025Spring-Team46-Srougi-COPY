@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.0.0.0">
+  <Summary numSequencePoints="12" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0.0" branchCoverage="0.0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="2" visitedMethods="0" numMethods="2" />
+  <Modules>
+    <Module>
+      <Summary numSequencePoints="12" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0.0" branchCoverage="0.0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="2" visitedMethods="0" numMethods="2" />
+      <ModuleTime>0001-01-01T00:00:00</ModuleTime>
+      <ModuleName>scripts</ModuleName>
+      <Files>
+        <File uid="3" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/Scripts/bottle.cs" />
+        <File uid="4" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/Scripts/cap.cs" />
+        <File uid="5" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/Scripts/HandInteractionManager.cs" />
+        <File uid="6" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/Scripts/HoverLabelUI.cs" />
+        <File uid="7" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/Scripts/InteractableLabel.cs" />
+        <File uid="8" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/Scripts/LabJournalUI.cs" />
+        <File uid="9" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/Scripts/liquid.cs" />
+        <File uid="10" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/Scripts/pipetteaid.cs" />
+        <File uid="11" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/Scripts/Serologicals.cs" />
+        <File uid="12" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/Scripts/TaskListManager.cs" />
+        <File uid="13" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/Sponsor Assets/InteractorSwitcher.cs" />
+        <File uid="14" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/TrashBag.cs" />
+        <File uid="15" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/ApplyPhysics.cs" />
+        <File uid="16" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/ChangeMaterial.cs" />
+        <File uid="17" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/ConvertValueToHue.cs" />
+        <File uid="18" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/CreateTrail.cs" />
+        <File uid="19" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/DestroyObject.cs" />
+        <File uid="20" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/FadeCanvas.cs" />
+        <File uid="21" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/FadeCanvasOnOverlap.cs" />
+        <File uid="22" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/LaunchProjectile.cs" />
+        <File uid="23" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/LoadScene.cs" />
+        <File uid="24" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/LookAtPlayer.cs" />
+        <File uid="25" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/ManuallySelectObject.cs" />
+        <File uid="26" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/MatchRotation.cs" />
+        <File uid="27" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/MoveWithVelocity.cs" />
+        <File uid="28" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/PlayAnimation.cs" />
+        <File uid="29" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/PlayContinuousSound.cs" />
+        <File uid="30" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/PlayQuickSound.cs" />
+        <File uid="31" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/PlaySoundsFromList.cs" />
+        <File uid="32" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/PlayVideo.cs" />
+        <File uid="33" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/RemoveObjectsWithTag.cs" />
+        <File uid="34" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/RotateObject.cs" />
+        <File uid="35" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/ScaleObject.cs" />
+        <File uid="36" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/SetInteractionLayer.cs" />
+        <File uid="37" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/SetLightColor.cs" />
+        <File uid="38" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/SetLightIntensity.cs" />
+        <File uid="39" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/SetMaterialColor.cs" />
+        <File uid="40" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/SetParticleRate.cs" />
+        <File uid="41" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/SetVolume.cs" />
+        <File uid="42" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/ShowMessageFromList.cs" />
+        <File uid="43" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/SpawnFromList.cs" />
+        <File uid="44" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/SpawnObject.cs" />
+        <File uid="45" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/StickToObject.cs" />
+        <File uid="46" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/TeleportPlayer.cs" />
+        <File uid="47" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/ToggleInterface.cs" />
+        <File uid="48" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/ToggleLight.cs" />
+        <File uid="49" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/ToggleParticle.cs" />
+        <File uid="50" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/ToggleRay.cs" />
+        <File uid="51" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/ToggleVisibility.cs" />
+        <File uid="52" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/TranslateObject.cs" />
+        <File uid="53" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Actions/VibrateController.cs" />
+        <File uid="54" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Conditions/OnButtonPress.cs" />
+        <File uid="55" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Conditions/OnCollision.cs" />
+        <File uid="56" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Conditions/OnJoystickMove.cs" />
+        <File uid="57" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Conditions/OnPull.cs" />
+        <File uid="58" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Conditions/OnSceneLoad.cs" />
+        <File uid="59" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Conditions/OnTilt.cs" />
+        <File uid="60" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Conditions/OnTimedInterval.cs" />
+        <File uid="61" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Conditions/OnTrigger.cs" />
+        <File uid="62" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Conditions/OnVelocity.cs" />
+        <File uid="63" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Controls/XRButton.cs" />
+        <File uid="64" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Controls/XRJoystick.cs" />
+        <File uid="65" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Controls/XRKnob.cs" />
+        <File uid="66" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Controls/XRLever.cs" />
+        <File uid="67" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Controls/XRSlider.cs" />
+        <File uid="68" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Testing/DisplayFPS.cs" />
+        <File uid="69" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Testing/Notes.cs" />
+        <File uid="70" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Testing/TeleportAnchorWithFade.cs" />
+        <File uid="71" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Scripts/Testing/TeleportAreaWithFade.cs" />
+        <File uid="72" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Source Files/Editor/XRButtonEditor.cs" />
+        <File uid="73" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Source Files/Editor/XRJoystickEditor.cs" />
+        <File uid="74" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Source Files/Editor/XRKnobEditor.cs" />
+        <File uid="75" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Source Files/Editor/XRLeverEditor.cs" />
+        <File uid="76" fullPath="/Users/satwikakancharla/2024Fall-Team33-Srougi/VRBiotechMinigames/Assets/_Course Library/Source Files/Editor/XRSliderEditor.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="6" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0.0" branchCoverage="0.0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="1" visitedMethods="0" numMethods="1" />
+          <FullName>TeleportAnchorWithFade&lt;FadeSequence&gt;d__6[T]</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="0" nPathComplexity="0" sequenceCoverage="0.0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="6" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0.0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663769</MetadataToken>
+              <Name>System.Boolean TeleportAnchorWithFade&lt;FadeSequence&gt;d__6[T]::MoveNext()</Name>
+              <FileRef uid="70" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="6103" ordinal="0" offset="31" sl="43" sc="0" el="43" ec="0" bec="0" bev="0" fileid="70" />
+                <SequencePoint vc="0" uspid="6104" ordinal="0" offset="32" sl="44" sc="0" el="44" ec="0" bec="0" bev="0" fileid="70" />
+                <SequencePoint vc="0" uspid="6105" ordinal="0" offset="49" sl="46" sc="0" el="46" ec="0" bec="0" bev="0" fileid="70" />
+                <SequencePoint vc="0" uspid="6106" ordinal="0" offset="87" sl="47" sc="0" el="47" ec="0" bec="0" bev="0" fileid="70" />
+                <SequencePoint vc="0" uspid="6107" ordinal="0" offset="105" sl="49" sc="0" el="49" ec="0" bec="0" bev="0" fileid="70" />
+                <SequencePoint vc="0" uspid="6108" ordinal="0" offset="122" sl="50" sc="0" el="50" ec="0" bec="0" bev="0" fileid="70" />
+              </SequencePoints>
+              <BranchPoints />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="6" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0.0" branchCoverage="0.0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="1" visitedMethods="0" numMethods="1" />
+          <FullName>TeleportAreaWithFade&lt;FadeSequence&gt;d__6[T]</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="0" nPathComplexity="0" sequenceCoverage="0.0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="6" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0.0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663775</MetadataToken>
+              <Name>System.Boolean TeleportAreaWithFade&lt;FadeSequence&gt;d__6[T]::MoveNext()</Name>
+              <FileRef uid="71" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="6109" ordinal="0" offset="31" sl="43" sc="0" el="43" ec="0" bec="0" bev="0" fileid="71" />
+                <SequencePoint vc="0" uspid="6110" ordinal="0" offset="32" sl="44" sc="0" el="44" ec="0" bec="0" bev="0" fileid="71" />
+                <SequencePoint vc="0" uspid="6111" ordinal="0" offset="49" sl="46" sc="0" el="46" ec="0" bec="0" bev="0" fileid="71" />
+                <SequencePoint vc="0" uspid="6112" ordinal="0" offset="87" sl="47" sc="0" el="47" ec="0" bec="0" bev="0" fileid="71" />
+                <SequencePoint vc="0" uspid="6113" ordinal="0" offset="105" sl="49" sc="0" el="49" ec="0" bec="0" bev="0" fileid="71" />
+                <SequencePoint vc="0" uspid="6114" ordinal="0" offset="122" sl="50" sc="0" el="50" ec="0" bec="0" bev="0" fileid="71" />
+              </SequencePoints>
+              <BranchPoints />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+  </Modules>
+</CoverageSession>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>19-11-2024 - 15:29:31</Generatedon>
+    <Parser>MultiReportParser (4x OpenCoverParser)</Parser>
+    <Assemblies>6</Assemblies>
+    <Classes>91</Classes>
+    <Files>88</Files>
+    <Coveredlines>418</Coveredlines>
+    <Uncoveredlines>3634</Uncoveredlines>
+    <Coverablelines>4052</Coverablelines>
+    <Totallines>7920</Totallines>
+    <Linecoverage>10.3</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+    <Coveredmethods>76</Coveredmethods>
+    <Totalmethods>683</Totalmethods>
+    <Methodcoverage>11.1</Methodcoverage>
+  </Summary>
+  <Coverage>
+    <Assembly name="PlayModeTests" classes="1" coverage="96" coveredlines="147" coverablelines="153" totallines="255" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="17" totalmethods="17" methodcoverage="100">
+      <Class name="PlayModeTestScript" coverage="96" coveredlines="147" coverablelines="153" totallines="255" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="17" totalmethods="17" methodcoverage="100" />
+    </Assembly>
+    <Assembly name="scripts" classes="77" coverage="9.5" coveredlines="245" coverablelines="2557" totallines="4869" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="56" totalmethods="450" methodcoverage="12.4">
+      <Class name="AngleAlertNotificationUI" coverage="22.2" coveredlines="10" coverablelines="45" totallines="82" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="3" totalmethods="5" methodcoverage="60" />
+      <Class name="ApplyPhysics" coverage="0" coveredlines="0" coverablelines="16" totallines="31" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="bottle" coverage="16.8" coveredlines="34" coverablelines="202" totallines="263" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="10" totalmethods="14" methodcoverage="71.4" />
+      <Class name="ChangeMaterial" coverage="0" coveredlines="0" coverablelines="26" totallines="47" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="5" methodcoverage="0" />
+      <Class name="ConvertValueToHue" coverage="0" coveredlines="0" coverablelines="8" totallines="23" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+      <Class name="CreateTrail" coverage="0" coveredlines="0" coverablelines="30" totallines="51" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="6" methodcoverage="0" />
+      <Class name="DestroyObject" coverage="0" coveredlines="0" coverablelines="4" totallines="15" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+      <Class name="DisplayFPS" coverage="0" coveredlines="0" coverablelines="36" totallines="61" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="6" methodcoverage="0" />
+      <Class name="FadeCanvas" coverage="0" coveredlines="0" coverablelines="46" totallines="78" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="11" methodcoverage="0" />
+      <Class name="FadeCanvasOnOverlap" coverage="0" coveredlines="0" coverablelines="35" totallines="68" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="6" methodcoverage="0" />
+      <Class name="grab" coverage="0" coveredlines="0" coverablelines="4" totallines="18" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+      <Class name="HandInteractionManager" coverage="15.2" coveredlines="42" coverablelines="276" totallines="348" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="13" totalmethods="17" methodcoverage="76.4" />
+      <Class name="HoverLabelAndHighlight" coverage="26.3" coveredlines="25" coverablelines="95" totallines="132" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="9" totalmethods="12" methodcoverage="75" />
+      <Class name="InteractableLabel" coverage="100" coveredlines="1" coverablelines="1" totallines="9" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="1" totalmethods="1" methodcoverage="100" />
+      <Class name="InteractorSwitcher" coverage="63.6" coveredlines="7" coverablelines="11" totallines="53" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="1" totalmethods="1" methodcoverage="100" />
+      <Class name="LabJournalUI" coverage="62.1" coveredlines="23" coverablelines="37" totallines="156" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="4" totalmethods="6" methodcoverage="66.6" />
+      <Class name="LaunchProjectile" coverage="0" coveredlines="0" coverablelines="12" totallines="31" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+      <Class name="liquid" coverage="45.8" coveredlines="11" coverablelines="24" totallines="64" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="3" totalmethods="5" methodcoverage="60" />
+      <Class name="LoadScene" coverage="0" coveredlines="0" coverablelines="6" totallines="18" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+      <Class name="LookAtPlayer" coverage="0" coveredlines="0" coverablelines="20" totallines="44" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="ManuallySelectObject" coverage="0" coveredlines="0" coverablelines="18" totallines="38" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="MatchRotation" coverage="0" coveredlines="0" coverablelines="15" totallines="36" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+      <Class name="MoveWithVelocity" coverage="0" coveredlines="0" coverablelines="29" totallines="57" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="8" methodcoverage="0" />
+      <Class name="Notes" coverage="0" coveredlines="0" coverablelines="1" totallines="8" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="1" methodcoverage="0" />
+      <Class name="OnButtonPress" coverage="0" coveredlines="0" coverablelines="23" totallines="50" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="7" methodcoverage="0" />
+      <Class name="OnCollision" coverage="0" coveredlines="0" coverablelines="12" totallines="33" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="OnJoystickMove" coverage="0" coveredlines="0" coverablelines="22" totallines="50" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="6" methodcoverage="0" />
+      <Class name="OnPull" coverage="0" coveredlines="0" coverablelines="43" totallines="74" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="7" methodcoverage="0" />
+      <Class name="OnSceneLoad" coverage="0" coveredlines="0" coverablelines="10" totallines="27" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="OnTilt" coverage="0" coveredlines="0" coverablelines="23" totallines="50" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+      <Class name="OnTimedInterval" coverage="0" coveredlines="0" coverablelines="15" totallines="37" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="OnTrigger" coverage="0" coveredlines="0" coverablelines="22" totallines="50" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="5" methodcoverage="0" />
+      <Class name="OnVelocity" coverage="0" coveredlines="0" coverablelines="37" totallines="77" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="7" methodcoverage="0" />
+      <Class name="PlayAnimation" coverage="0" coveredlines="0" coverablelines="13" totallines="27" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="5" methodcoverage="0" />
+      <Class name="PlayContinuousSound" coverage="0" coveredlines="0" coverablelines="59" totallines="97" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="12" methodcoverage="0" />
+      <Class name="PlayQuickSound" coverage="0" coveredlines="0" coverablelines="19" totallines="42" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="PlaySoundsFromList" coverage="0" coveredlines="0" coverablelines="40" totallines="74" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="11" methodcoverage="0" />
+      <Class name="PlayVideo" coverage="0" coveredlines="0" coverablelines="82" totallines="134" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="16" methodcoverage="0" />
+      <Class name="RemoveObjectsWithTag" coverage="0" coveredlines="0" coverablelines="5" totallines="15" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="1" methodcoverage="0" />
+      <Class name="RotateObject" coverage="0" coveredlines="0" coverablelines="32" totallines="60" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="8" methodcoverage="0" />
+      <Class name="ScaleObject" coverage="0" coveredlines="0" coverablelines="10" totallines="20" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+      <Class name="SerologicalAttachment" coverage="22.3" coveredlines="25" coverablelines="112" totallines="151" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="5" totalmethods="10" methodcoverage="50" />
+      <Class name="Serologicals" coverage="83.8" coveredlines="57" coverablelines="68" totallines="126" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="4" totalmethods="4" methodcoverage="100" />
+      <Class name="SetInteractionLayer" coverage="0" coveredlines="0" coverablelines="22" totallines="42" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="5" methodcoverage="0" />
+      <Class name="SetLightColor" coverage="0" coveredlines="0" coverablelines="16" totallines="35" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="5" methodcoverage="0" />
+      <Class name="SetLightIntensity" coverage="0" coveredlines="0" coverablelines="7" totallines="20" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+      <Class name="SetMaterialColor" coverage="0" coveredlines="0" coverablelines="10" totallines="26" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+      <Class name="SetParticleRate" coverage="0" coveredlines="0" coverablelines="8" totallines="20" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+      <Class name="SetVolume" coverage="0" coveredlines="0" coverablelines="16" totallines="34" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="5" methodcoverage="0" />
+      <Class name="ShowMessageFromList" coverage="35.7" coveredlines="10" coverablelines="28" totallines="57" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="3" totalmethods="6" methodcoverage="50" />
+      <Class name="SpawnFromList" coverage="0" coveredlines="0" coverablelines="44" totallines="81" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="10" methodcoverage="0" />
+      <Class name="SpawnObject" coverage="0" coveredlines="0" coverablelines="9" totallines="24" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+      <Class name="StickToObject" coverage="0" coveredlines="0" coverablelines="4" totallines="13" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="1" methodcoverage="0" />
+      <Class name="SubTaskItem" coverage="0" coveredlines="0" coverablelines="11" totallines="101" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="TaskItem" coverage="0" coveredlines="0" coverablelines="27" totallines="101" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="5" methodcoverage="0" />
+      <Class name="TaskListManager" coverage="0" coveredlines="0" coverablelines="12" totallines="101" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+      <Class name="TeleportAnchorWithFade" coverage="0" coveredlines="0" coverablelines="22" totallines="52" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="6" methodcoverage="0" />
+      <Class name="TeleportAreaWithFade" coverage="0" coveredlines="0" coverablelines="22" totallines="51" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="6" methodcoverage="0" />
+      <Class name="TeleportPlayer" coverage="0" coveredlines="0" coverablelines="14" totallines="39" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+      <Class name="ToggleInterface" coverage="0" coveredlines="0" coverablelines="12" totallines="27" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="ToggleLight" coverage="0" coveredlines="0" coverablelines="24" totallines="46" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="7" methodcoverage="0" />
+      <Class name="ToggleParticle" coverage="0" coveredlines="0" coverablelines="32" totallines="53" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="7" methodcoverage="0" />
+      <Class name="ToggleRay" coverage="0" coveredlines="0" coverablelines="26" totallines="52" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="6" methodcoverage="0" />
+      <Class name="ToggleVisibility" coverage="0" coveredlines="0" coverablelines="8" totallines="23" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+      <Class name="TranslateObject" coverage="0" coveredlines="0" coverablelines="26" totallines="52" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="8" methodcoverage="0" />
+      <Class name="TrashBag" coverage="0" coveredlines="0" coverablelines="4" totallines="18" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+      <Class name="VibrateController" coverage="0" coveredlines="0" coverablelines="15" totallines="34" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="5" methodcoverage="0" />
+      <Class name="XRButton" coverage="0" coveredlines="0" coverablelines="87" totallines="138" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="15" methodcoverage="0" />
+      <Class name="XRButtonEditor" coverage="0" coveredlines="0" coverablelines="22" totallines="40" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+      <Class name="XRJoystick" coverage="0" coveredlines="0" coverablelines="91" totallines="156" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="16" methodcoverage="0" />
+      <Class name="XRJoystickEditor" coverage="0" coveredlines="0" coverablelines="25" totallines="43" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+      <Class name="XRKnob" coverage="0" coveredlines="0" coverablelines="67" totallines="116" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="15" methodcoverage="0" />
+      <Class name="XRKnobEditor" coverage="0" coveredlines="0" coverablelines="25" totallines="43" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+      <Class name="XRLever" coverage="0" coveredlines="0" coverablelines="69" totallines="116" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="14" methodcoverage="0" />
+      <Class name="XRLeverEditor" coverage="0" coveredlines="0" coverablelines="22" totallines="40" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+      <Class name="XRSlider" coverage="0" coveredlines="0" coverablelines="61" totallines="107" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="12" methodcoverage="0" />
+      <Class name="XRSliderEditor" coverage="0" coveredlines="0" coverablelines="25" totallines="43" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+    </Assembly>
+    <Assembly name="Tests" classes="2" coverage="0" coveredlines="0" coverablelines="23" totallines="114" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="5" methodcoverage="0">
+      <Class name="EventPublisher" coverage="0" coveredlines="0" coverablelines="6" totallines="57" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+      <Class name="NewTestScript" coverage="0" coveredlines="0" coverablelines="17" totallines="57" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+    </Assembly>
+    <Assembly name="Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator" classes="3" coverage="3.3" coveredlines="26" coverablelines="787" totallines="1600" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="3" totalmethods="102" methodcoverage="2.9">
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.DeviceSimulator.XRDeviceSimulatorControllerUI" coverage="0" coveredlines="0" coverablelines="112" totallines="253" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="13" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.DeviceSimulator.XRDeviceSimulatorHandsUI" coverage="0.9" coveredlines="1" coverablelines="103" totallines="182" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="1" totalmethods="13" methodcoverage="7.6" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.DeviceSimulator.XRDeviceSimulatorUI" coverage="4.3" coveredlines="25" coverablelines="572" totallines="1165" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="2" totalmethods="76" methodcoverage="2.6" />
+    </Assembly>
+    <Assembly name="Unity.XR.Interaction.Toolkit.Samples.StarterAssets" classes="7" coverage="0" coveredlines="0" coverablelines="506" totallines="1265" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="104" methodcoverage="0">
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.ActionBasedControllerManager" coverage="0" coveredlines="0" coverablelines="236" totallines="464" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="30" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.DestroySelf" coverage="0" coveredlines="0" coverablelines="6" totallines="29" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.DynamicMoveProvider" coverage="0" coveredlines="0" coverablelines="62" totallines="189" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="13" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.GazeInputManager" coverage="0" coveredlines="0" coverablelines="45" totallines="95" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="7" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.IncrementUIText" coverage="0" coveredlines="0" coverablelines="11" totallines="45" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.ObjectSpawner" coverage="0" coveredlines="0" coverablelines="72" totallines="237" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="24" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.XRPokeFollowAffordance" coverage="0" coveredlines="0" coverablelines="74" totallines="206" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="22" methodcoverage="0" />
+    </Assembly>
+    <Assembly name="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor" classes="1" coverage="0" coveredlines="0" coverablelines="26" totallines="76" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="5" methodcoverage="0">
+      <Class name="UnityEditor.XR.Interaction.Toolkit.Samples.StarterAssetsSampleProjectValidation" coverage="0" coveredlines="0" coverablelines="26" totallines="76" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="5" methodcoverage="0" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>

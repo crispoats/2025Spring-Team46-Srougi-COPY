@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 651e4cb7ddaf34e4b9ef5297df9d45cf, type: 3}
+  m_Name: M1 TaskList
+  m_EditorClassIdentifier: 
+  tasks:
+  - name: Put on Lab Coat
+    description: Put on the lab coat first to protect from spills and splashes.
+  - name: Put on Safety Goggles
+    description: Put on safety goggles to shield your eyes from contaminants.
+  - name: Put on Gloves
+    description: Lastly, put on safety gloves to finish wearing your personal protective
+      equipment.
+  - name: Select Serological
+    description: Select a serological that can hold DEFINE_RANGE(1,20) mL.
+  - name: Attach Serological to Pipette Aid
+    description: Attach the serological to the pipette aid.
+  - name: Aspirate Liquid
+    description: Aspirate REFER_RANGE mL of the DEFINE_LIQUID liquid.
+  - name: Disperse Liquid
+    description: Disperse REFER_RANGE mL of the REFER_LIQUID liquid to an empty container.
+  - name: Dispose Serological
+    description: Dispose the serological into the disposal box.
+  - name: Place Pipette Aid
+    description: Place the pipette aid down on the table.

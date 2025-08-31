@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 651e4cb7ddaf34e4b9ef5297df9d45cf, type: 3}
+  m_Name: Tutorial TaskList
+  m_EditorClassIdentifier: 
+  tasks:
+  - name: Open Notebook
+    description: You can view tasks, mistakes and leave the minigame with the notebook.
+      Keep following the instructions to complete the tutorial.
+  - name: Perform Snap Turn
+    description: Flick the joystick to the left, right, or back to perform a snap
+      turn. All actions can be performed with both controllers.
+  - name: Teleport to White Floor
+    description: Push your joystick forward to see the teleport ray. Release the
+      joystick to complete the teleport. Make your way to the second bench and teleport
+      onto the white teleport anchor
+  - name: Click the GUI
+    description: You can interact with the displays using the trigger button at the
+      top of your controller. Click the X Button at the top right of this screen.
+  - name: Grab the White Cube
+    description: Move your hand on top of the White Cube and click the Grip Button
+      on the side of the controller to grab the Cube. You can also drop objects from
+      your hand using the Grip Button.
+  - name: Perform Action
+    description: When holding objects you can perform actions on them. Press and
+      hold the trigger button that has the cube in it to turn the cube red.
+  - name: Grab Distant Objects
+    description: You can grab far away objects using the rays from your hand. With
+      an open hand point your ray towards the Gray Cube and click the Grip Button.
+  - name: Use Modifier Button
+    description: Some equipment you will use have multiple actions, such as the Pipette
+      Aid with dispersing. Hold a Face Button that is holding the Gray Cube to use
+      the Modifier and turn the Cube Blue.
+  - name: Combine Actions
+    description: The pipette aid needs the Modifier button pressed to turn on dispersing
+      and the Trigger button to activate it's action. Perform both actions to turn
+      the Gray Cube Green.
