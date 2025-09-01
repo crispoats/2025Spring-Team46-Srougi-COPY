@@ -1,8 +1,8 @@
 # Folder Layout
 -  2025Spring-Team46-Srougi COPY
-  -  2024FallSrougiDocs
-  -  controller_files
-  -  VRBiotechMinigames
+    -  2024FallSrougiDocs
+    -  controller_files
+    -  VRBiotechMinigames
 
 # How To Run
 1. Clone this repo. 
